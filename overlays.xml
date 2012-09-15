@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="official">
+    <name>nxspotify</name>
+    <description>experimental spotify ebuilds</description>
+    <homepage>https://github.com/thomasn/Spotify-Overlay</homepage>
+    <owner type="project">
+      <email>thomas@nexus10.com</email>
+      <name>Spotify client</name>
+    </owner>
+    <source type="git">git@github.com:thomasn</source>
+  </repo>
+</repositories>
